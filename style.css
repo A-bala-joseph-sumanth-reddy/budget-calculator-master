@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+form {
+    margin: 10px 0px 10px 0px;
+}
+
+label {
+  margin: 6px 0px 0px 0px;
+}
+#MON{
+  color: #FFFFFF
+}
+.form-section {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px;
+  }
+
+h3 {
+    font-style: italic;
+  }
+
+body {
+  background-image: url('IMG6.JPG');
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode:darken;
+  color: black;
+}
+
+.layer {
+    background-color: rgba(248, 150, 30, .2);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+label{
+  font-size: 20px;
+}
+
+ul li h5 {
+  font-weight: bold;
+}
+h1 {
+  color: white;
+}
+.increase-text{
+  font-size: 50px;
+}
+.result{
+  font-size: 30px;
+  color: red;
+  background-color: rgba(18, 111, 250, .6);
+  padding: 15px;
+  text-align: justify;
+  border-radius: 20px;
+}
+
+.result-underline{
+  text-decoration: underline;
+}
+
+.red{
+  color: #000;
+}
+
+.middle{
+  width: 40vw;
+  margin: 10px 30vw;
+}
+
+.rmiddle{
+  width: 60vw;
+  margin: 10px 20vw;
+}
+
+.somebg{
+  padding: 20px 30px;
+  border-radius: 20px;
+  background-color: rgba(18, 111, 250, .6);
+}
+
+.kaushan{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 36px;
+}
